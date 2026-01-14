@@ -21,7 +21,7 @@ export default function About() {
         <div className="glass p-6 transition-transform duration-300 ease-out hover:-translate-y-1 hover:shadow-xl hover:ring-1 hover:ring-white/10">
           {/* About Header */}
           <div className="flex flex-col mb-6">
-            <h3 className="text-xl font-semibold text-white mb-1">Professional Summary</h3>
+            <h3 className="text-xl font-semibold text-white mb-1">My Summary</h3>
             <div className="flex items-center gap-2">
               <span className="text-lg font-medium text-neutral-300">@ About Me</span>
               <span className="text-sm text-neutral-400 bg-white/5 border border-white/10 px-2 py-1 rounded-full">
