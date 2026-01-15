@@ -1,18 +1,29 @@
 [
   {
-    "company": "Accenture",
-    "role": "Application Developer",
-    "start": "2024-08",
-    "end": "Present",
+    "company": "Spinovix Software",
+    "role": "Data Analyst",
+    "start": "2024/01",
+    "end": "2025/1",
     "location": "Pune",
-    "summary": "Specializing in SAP Hybris and Java for global e-commerce solutions.",
-    "highlights": [
-      "Specialized in SAP Hybris Commerce and Java, contributing to the development and maintenance of a large-scale global e-commerce platform supporting 45+countries.",
-      "Managing incident resolution and root cause analysis to ensure high availability, stability, and seamless customer experience across international markets."
-    ],
-    "tech": ["Java", "SpringBoot", "SAP Hybris Commerce", "ServiceNow", "Jira", "Conigma", "Kibana", "BitBucket",
-"Jenkins"]
+    "summary": "Data Analyst with expertise in SQL, Python, Power BI, dashboards & data-driven decision making.",
+   "highlights": [
+  "Delivered insights from complex, global datasets covering 45+ countries, enabling stakeholders to make data-driven decisions across multiple business functions.",
+  "Improved analytical reliability through continuous data validation, anomaly detection, and root cause analysis, ensuring trustworthy reporting and consistent performance metrics."
+],
+"tech": [
+  "SQL",
+  "Python",
+  "Excel",
+  "Power BI",
+  "Tableau",
+  "Data Analysis & Visualization",
+  "Root Cause Analysis",
+  "Data Quality Monitoring",
+  "REST APIs",
+  "Git / Bitbucket",
+  "Jira"
   },
+
   {
     "company": "Caredose Health Tech Pvt Ltd",
     "role": "SDE Intern",
