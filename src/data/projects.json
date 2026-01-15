@@ -6,58 +6,38 @@
     "description": "Responsive portfolio built with React, Vite, TypeScript, and Tailwind CSS.",
     "tags": ["React", "TypeScript", "Tailwind"],
     "links": {
-      "github": "https://github.com/VaibhavGobre08/portfolio"
+      "github": ""
     }
   },
   {
     "id": "object_detection",
-    "title": "Senior Citizen Object Detection System Using YOLOv8",
-    "purpose":"College Project",
-    "description": "Developed a smart walking stick leveraging the YOLOv8 object detection model",
-    "tags": ["Python", "YOLOv8 (Ultralytics)" , "OpenCV", "real-time computer vision"],
+    "title": "Retail Sales Dashboard using Power BI  ",
+    "purpose":"Learning Project",
+    "description": "Built interactive dashboards using Power BI to analyze retail performance.",
+    "tags": ["Power BI", "SQL" , "Excel", "KPI"],
     "links": {
-      "github": "https://github.com/VaibhavGobre08/Object-Detection-YOLOv8"
+      "github": ""
     }
   },
   {
     "id": "heart_disease",
-    "title": "Heart Disease Prediction with Severity Levels",
+    "title": "Credit Card Fraud Detection ETL Pipeline",
     "purpose":"College Project",
-    "description": "Led the development of an AI-powered heart disease prediction system, classifying severity levels using neural networks, K-means clustering, and gradient descent.",
-    "tags": ["Machine Learning", "Neural Networks","K-Means Clustering","Prompt Engineering Gradient Descent", "Data Filtering", "Python", "Django"],
+    "description": "Delivered a production-grade ETL pipeline enabling reliable credit card fraud insights through automated data processing, cloud storage, and real-time analytics dashboards.",
+    "tags": ["PySpark", "PostgreSQL","BigQuery","ETL", "Docker", "Python", "AWS"],
     "links": {
-      "github": "https://github.com/VaibhavGobre08/Heart-Disease-Prediction-with-Severity-Levels"
+      "github": ""
     }
   },
   {
     "id": "smart_loan_application_platform",
-    "title": "Smart Loan Application Platform",
+    "title": "Retail Analytics with Spark SQL",
     "purpose":"Personal Project",
-    "description": "Engineered a scalable loan application system using a microservices architecture, featuring two dedicated services: The User Service allows customers to apply for loans, seamlessly transmitting applications to the Employee Service via RabbitMQ for reliable, asynchronous processing",
-    "tags": ["Java", "Spring Boot", "Spring Security", "JWT", "RabbitMQ", "Microservices architecture"],
+    "description": "Performed large-scale retail analytics using Spark SQL to uncover sales trends and KPIs through advanced aggregations and window functions on cloud-hosted data.",
+    "tags": ["SparkSQL", "GCP", "DataBricks" ],
     "links": {
-      "github": "https://github.com/VaibhavGobre08/smart_loan_application"
-    }
-  },
-  {
-    "id": "news-app",
-    "title": "Personalized News Aggregator App",
-    "purpose":"Personal Project",
-    "description": "Built a Personalized News Aggregator application with Angular frontend and Spring Boot backend, delivering real-time news from multiple APIs with an intuitive user interface.",
-    "tags": ["Angular", "TypeScript", "HTML", "CSS", "Spring Boot", "Java"],
-    "links": {
-      "github": "https://github.com/VaibhavGobre08/News-App"
-    }
-  },
-
-  {
-    "id": "noc-app",
-    "title": "Personalized NOC Builder for YCCE College",
-    "purpose":"Personal Project",
-    "description": "Generate a personalized No Objection Certificate (NOC) PDF for students of Yeshwantrao Chavan College of Engineering (YCCE).",
-    "tags": ["HTML", "CSS", "JavaScript","ReportLab"],
-    "links": {
-      "github": "https://github.com/VaibhavGobre08/NOC-Builder"
+      "github": ""
     }
   }
+ 
 ] 
